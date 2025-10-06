@@ -1,4 +1,4 @@
-# Exercicios_para-treinar-Logica-de-Programacao
+# Exercicios para treinar Logica de Programacao
 Este repositório documenta a solução de 24 exercícios sobre lógica de programação
 Lista de Exercícios para treinar Lógica de Programação
 
